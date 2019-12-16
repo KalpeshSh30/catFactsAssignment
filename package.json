@@ -1,0 +1,14 @@
+{
+  "name": "catfactsassignment",
+  "version": "1.0.0",
+  "description": "assignment 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kalpesh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.19.0"
+  }
+}
